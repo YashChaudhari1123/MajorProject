@@ -9,7 +9,7 @@ The project demonstrates backend development concepts including CRUD operations,
 ---
 
 ## Developer
-Yash Chaudhari (202201229)
+Yash Chaudhari
 
 ---
 
