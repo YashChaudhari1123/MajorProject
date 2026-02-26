@@ -40,7 +40,7 @@ Yash Chaudhari
 - Deployed on Render
 - Environment variables managed using `.env`
 
-Live Website: https://wanderlust-by-yash.onrender.com  
+Live Website: https://wanderlust-by-yash.onrender.com/listings 
 GitHub Repository: https://github.com/YashChaudhari1123/MajorProject  
 
 ---
